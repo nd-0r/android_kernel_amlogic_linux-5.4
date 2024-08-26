@@ -32,6 +32,7 @@
 #include <linux/irq_work.h>
 #include <linux/kernel_stat.h>
 #include <linux/kexec.h>
+#include <linux/moduleparam.h>
 
 #include <asm/alternative.h>
 #include <asm/atomic.h>

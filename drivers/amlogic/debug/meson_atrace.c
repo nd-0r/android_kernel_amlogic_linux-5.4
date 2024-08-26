@@ -4,6 +4,7 @@
  */
 
 #include <linux/module.h>
+#include <linux/device.h>
 
 #define CREATE_TRACE_POINTS
 #include <trace/events/meson_atrace.h>
